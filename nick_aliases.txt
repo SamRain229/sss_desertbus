@@ -151,7 +151,7 @@
 1,cherubimcw,cherubimcw_
 1,chimingfish,headlessfish
 1,chipptunes,chipptunes_
-1,chrusher,chrusher_,doctor_chrusher,chrusher_work,chrusher_old_mac,chrusher_phone
+1,chrusher,chrusher_,doctor_chrusher,chrusher_work,chrusher_old_mac,chrusher_phone,chrusher_windows,chrusher_linux
 1,chton,chton2
 1,chuzzle,chuzzle_,chuzzle_2,chuzzle|2,chuzzl,chuzzle_school,chuz|away,chuz|awaymurr,chuz|awy,chuz|phone,chuz|train,chuz|school,chuz_school
 1,chrono2x,chrono2x_alt,chrono2x_lap,
